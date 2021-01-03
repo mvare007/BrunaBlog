@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+
+<html>
+
+{% include head.html %}
+<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+
+<body>
+
+  {% include navbar.html %}
+
+  {{ content }}
+
+  {% include footer.html %}
+
+  {% include scripts.html %}
+
+  {% include google-analytics.html %}
+
+</body>
+
+</html>
