@@ -6,6 +6,8 @@ date: 2021-01-06T16:51:52.904Z
 ---
 ### **Todos queremos ter um jardim bonito e invejável. Mas depois a realidade bate-nos à porta e a falta de tempo e de dinheiro destroem esse sonho. E pensamos que nem temos jeito para tal.**
 
+
+
 Para ter um jardim bonito não precisa de grandes truques, é claro que requer algum tempo e dedicação. Saiba que mesmo novato no assunto pode alcançar seu éden.
 
 **Considere primeiramente o que quer fazer no seu jardim, uma horta? Recreio para crianças? Zona de relaxar?**
@@ -16,9 +18,7 @@ Considere não fazer tudo sozinho, tente equilibrar tempo dinheiro e conheciment
 
 Analise o clima de sua localidade, num único país podem existir vários tipos diferentes de zonas em termos climatéricos. Ao iniciar, é boa ideia informar-se junto do seu centro de jardinagem ou viveiro local. Eles sabem tudo o que é preciso sobre vegetação, clima e solo. Evite comprar plantas sem a devida análise e ponderação; poderá revelar-se dispendioso.
 
-
-
-#### **Há três aspetos simples que deve ter em mente quando plantar um canteiro: altura, estação e cor.** 
+#### **Há três aspetos simples que deve ter em mente quando plantar um canteiro: altura, estação e cor.**
 
 Escolha  espécies cujos períodos de floração não coincidam para assim alargar a estação. Misture cores que fiquem bem umas com as outras. Certifique-se de que as plantas altas não escondem as mais baixas.
 
