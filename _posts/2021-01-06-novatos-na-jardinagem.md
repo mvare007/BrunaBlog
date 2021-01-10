@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Novatos na jardinagem?
+background: /assets/img/posts/photo-1523348837708-15d4a09cfac2.jpeg
 date: 2021-01-06T16:51:52.904Z
 ---
 **Todos queremos ter um jardim bonito e invejável. Mas depois a realidade bate-nos à porta e a falta de tempo e de dinheiro destroem esse sonho. E pensamos que nem temos jeito para tal.**
