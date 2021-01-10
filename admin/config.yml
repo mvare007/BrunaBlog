@@ -14,6 +14,7 @@ collections:
     fields:
       - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
       - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Banner', name: 'background', widget: 'image' }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
   - name: 'pages'
@@ -22,11 +23,12 @@ collections:
       preview: false
     files:
       - label: 'About Page'
-        name: 'about'
+        name: 'Sobre mim'
         file: 'about.md'
         fields:
           - { label: 'Title', name: 'title', widget: 'hidden', default: 'about' }
           - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'about' }
+          - { label: 'Banner', name: 'background', widget: 'image'}
           - { label: 'Body', name: 'body', widget: 'markdown' }
   - name: "config"
     label: "Config"
