@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Cristatas
+background: /assets/img/posts/suculenta-cristata.jpg
 date: 2021-01-04T18:24:28.023Z
 ---
 As nossas queridas suculentas podem apresentar anomalias na sua formação durante o crescimento.
