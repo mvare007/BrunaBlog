@@ -4,12 +4,9 @@ title: " Anacampseros Filamentosa "
 background: /assets/img/posts/img_20210118_140456.jpg
 date: 2021-01-18T14:57:08.336Z
 ---
-
-
  Sou super fã dessa suculenta, foi a que iniciou minha coleção e dada por alguém muito especial. É ótima para quem está a iniciar uma coleção ou para quem é novo com essas fofuras.
 A minha já está habituada ao clima de onde vivo(mediterrânico)
 No início da primavera vai para o exterior e apanha sol da manhã e é regada 2 a 3 vezes por semana, ou sempre que vejo o substrato seco. Agora no inverno veio para casa por ter muitos filhotes a volta que são frágeis ao inverno rigoroso que vivemos por vezes. Mas fica aqui a janela a apanhar o sol que por vezes dá o ar de sua graça. 
-
 
 Bom ela é originária do Sul de África , vindo desde a Namíbia, passando pelo norte do rio Orange até o Karoo central. Habita em fendas de rochas íngremes, paredes rochosas e também em leito de rios. Não é muito visível na natureza devido ao seu aspecto, consegue se camuflar, sendo facilmente encontrada quando flori. Gosta de solo arenoso, como os cactos.
 
@@ -17,8 +14,7 @@ Bom ela é originária do Sul de África , vindo desde a Namíbia, passando pelo
 
 Convém replantar a planta adulta a cada 2 anos para renovar a terra e propiciar mais espaço para seu desenvolvimento. Uso na minha um substrato leve para que suas raízes respirem para evitar seu apodrecimento. No período de descanso, não há muita umidade atmosférica, tenho cuidado com a rega, pois elas tendem a inchar e atrapalhar o hábito de crescimento se houver muita água e sombra. No que toca a fertilizante ela não é exigente, se quiser que fique mais viçosa basta fertilizar com potássio no início do verão, estação de crescimento. Tenho especial atenção às pragas, mas estando ela saudável não apanham qualquer doença. 
 
-![](/assets/img/posts/img_20200706_174551-1-.jpg)
-
+![](/assets/img/posts/img_20210119_111236.jpg)
 
 Resumindo e concluindo é super fácil de cuidar, de manter e ótima para decorar não fica grande e está sempre linda! 
 Ficou com vontade de ter uma?
