@@ -11,7 +11,7 @@ Seu cultivo e muito simples, pois a Jiboia é super adaptável, gosta de meia so
 
 ![]()
 
-![](/assets/img/posts/rsz_sandra-martins-y33thhredag-unsplash.jpg)
+![](/assets/img/posts/rsz_1rsz_sandra-martins-y33thhredag-unsplash.jpg)
 
 Sendo uma trepadeira tropical, a jiboia gosta de água e calor, regue 2 vezes por semana e no verão aumente a frequência das regas. Aprecia solo rico em matéria orgânica, para manter-se nutrida pode adicionar ao seu composto húmus de minhoca e a cada 3 meses. 
 
