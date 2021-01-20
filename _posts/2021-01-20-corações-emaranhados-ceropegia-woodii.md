@@ -12,7 +12,7 @@ Ela é um pouco delicada, é considerada planta de folhagem e trepadeira pendent
 
 Nativa de ambientes quentes, áfrica do Sul, Suazilândia e Zimbabué de gosta de clima quente, mas tenho a minha a aguentar se bem no inverno aqui em Portugal. Mas não exponho a geadas, chuvas intensas, neve ou temperaturas negativas. E apesar de gostar d e calor não se deve expor ao sol intenso do meio-dia, espero que ou manter-se o vaso bum ambiente bem iluminado. A rega deve ser moderada, só quando o substrato está seco. 
 
-Apesar de ser suculenta, ela prefere que solo rico em matéria orgânica e nutrientes, mas sempre mantendo o substrato com boa drenagem. Pode fazer o seu substrato para a Cenopégia junte húmus de minhoca, folhas secas, terra vegetal areia grossa e se quiser pode fertilizar, mas não é preciso muito use um adubo com composição e 10-10-10. Tenham apenas atenção às cochonilhas pois tentam sempre atacar nossas suculentas, convém verificar toda semana. 
+Apesar de ser suculenta, ela prefere que solo rico em matéria orgânica e nutrientes, mas sempre mantendo o substrato com boa drenagem. Para fazer o substrato para a Cenopégia junte húmus de minhoca, folhas secas, terra vegetal areia grossa e se quiser pode fertilizar, mas não é preciso muito use um adubo com composição e 10-10-10. Tenham apenas atenção às cochonilhas pois tentam sempre atacar nossas suculentas, convém verificar toda semana. 
 
 Propaga-la também é simples, basta retirar uma haste onde haja um ou mais tubérculos mais desenvolvidos e plantar diretamente no vaso definitivo. 
 
