@@ -18,4 +18,6 @@ Também pode-se oferecer treliças delicadas, para que o seu caule volúvel suba
 
 Corte com as pontas dos dedos ou unhas as mudas novas e nas plantas em desenvolvimento, para estimular um crescimento mais denso e atraente. Se não gostar das flores, ou do seu aroma, remova os botões com as pontas dos dedos também. Esse procedimento também ajuda a retardar o envelhecimento da planta. Após a floração a planta tende a decair, por este motivo, aproveite as podas para propagar a planta e assim ter sempre novas mudas para reposição das plantas velhas.
 
-![](https://previews.123rf.com/images/bonilook/bonilook1907/bonilook190700457/128195112-purple-leaves-of-gynura-aurantiaca-originally-from-the-mountain-forests-of-the-island-of-java-close-.jpg)
+
+
+![](/assets/img/posts/img_20210120_170430-1-.jpg)
