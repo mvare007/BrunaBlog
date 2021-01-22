@@ -4,13 +4,13 @@ title: Castanospermum(Castanheiro Australiano)
 background: /assets/img/posts/castano.jpeg
 date: 2021-01-22T14:12:00.162Z
 ---
-Recentemente adicionado a minha coleção de mini floresta, foi uma surpresa, fiquei encantada com seu tamanho e suas grandes folhas verdes e brilhantes. O meu não passa de um bebé, comparado ao que se encontra na natureza podendo atingir até 40 metros. Mas vou manter o meu num vaso pequenino e ir podando anualmente para ficar como um bonsai na natureza costuma florescer mas em casa dificilmente o vai fazer.
+Recentemente adicionado a minha coleção de mini floresta, foi uma surpresa, fiquei encantada com seu tamanho e suas grandes folhas verdes e brilhantes. O meu não passa de um bebé, comparado ao que se encontra na natureza podendo atingir até 40 metros. Mas vou manter o meu num vaso pequenino e ir podando anualmente para ficar como um bonsai, na natureza costuma florescer mas em casa dificilmente o vai fazer.
 
-Pertence a família Fabaceae, originaria da Australia e das ilhas do Pacifico de Vanuatu, gosta de luz abundante indireta, tente não expor a sol direto pois queima suas folhas e tira seu brilho. Regar apenas quando os primeiros 3cm estiverem secos,e reduzir a rega no inverno, aprecia solo bem drenado e rico em matéria orgânica, gosta de temperaturas mais quentes, podendo suportar até 15ºC.
+Pertence a família Fabaceae, originária da Australia e das ilhas do Pacifico de Vanuatu, gosta de luz abundante indireta, tente não expor a sol direto pois queima suas folhas e tira seu brilho. Regar apenas quando os primeiros 3cm estiverem secos,e reduzir a rega no inverno, aprecia solo bem drenado e rico em matéria orgânica, gosta de temperaturas mais quentes, podendo suportar frio até 15ºC.
 
-Quando adquirida bebé como o caso da minha vem junto ao caule grandes vagens verdes, que quando secarem terão cumprido o seu proposito. Toda a primavera surge lhe belas flores vermelhas e amarelas semelhante as ervilhas.
+Quando adquirida bebé como o caso da minha, vem junto ao caule grandes vagens verdes, que quando secarem terão cumprido o seu propósito. Toda a primavera surge lhe belas flores vermelhas e amarelas semelhante as ervilhas.
 
-![https://www.facebook.com/photo.php?fbid=10214933667758826&set=pcb.761370844067433&type=3&theater](https://i.pinimg.com/originals/23/e3/82/23e38237058de03c899359e55cbe5dcd.jpg)
+![](https://i.pinimg.com/originals/23/e3/82/23e38237058de03c899359e55cbe5dcd.jpg)
 
 Tem crescimento lento, podendo ser acelerado com uso de fertilizante 3 vezes durante a primavera e verão, propaga-se através de suas grandes vagens em solo rico em matéria orgânica.
 
