@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Planta Avião(Crassula perfoliata var.minor)
+title: Planta Avião (Crassula perfoliata var.minor)
 background: /assets/img/posts/crassula_falcata_01.jpg
 date: 2021-01-20T17:41:31.495Z
 ---
