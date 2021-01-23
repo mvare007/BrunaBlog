@@ -16,4 +16,4 @@ date: 2021-01-23T12:47:46.339Z
 
  **5.**  Esteja sempre atento a qualquer mudança na coloração das folhas, podem ser indicadores de doenças, pragas, fungo ou deficiência de nutrientes.
 
-Caso ache que há algo de errado com a sua plantinha não desespere. Enviem-me fotos e terei todo o gosto em ajudá-lo a avaliar a sua planta. Contacte-mes através de do formulário de contato.
+Caso ache que há algo de errado com a sua plantinha não desespere. Enviem-me fotos e terei todo o gosto em ajudá-lo a avaliar a sua planta. Contacte-mes através do formulário de contato.
