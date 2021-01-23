@@ -6,7 +6,7 @@ date: 2021-01-22T14:12:00.162Z
 ---
 Recentemente adicionado a minha coleção de mini floresta, foi uma surpresa, fiquei encantada com seu tamanho e suas grandes folhas verdes e brilhantes. O meu não passa de um bebé, comparado ao que se encontra na natureza podendo atingir até 40 metros. Mas vou manter o meu num vaso pequenino e ir podando anualmente para ficar como um bonsai, na natureza costuma florescer mas em casa dificilmente o vai fazer.
 
-Pertence a família Fabaceae, originária da Australia e das ilhas do Pacifico de Vanuatu, gosta de luz abundante indireta, tente não expor a sol direto pois queima suas folhas e tira seu brilho. Regar apenas quando os primeiros 3cm estiverem secos,e reduzir a rega no inverno, aprecia solo bem drenado e rico em matéria orgânica, gosta de temperaturas mais quentes, podendo suportar frio até 15ºC.
+Pertence a família Fabaceae, originária da Austrália e das ilhas do Pacífico de Vanuatu, gosta de luz abundante indireta, tente não expor a sol direto do meio-dia pois queima suas folhas e tira seu brilho. Regar apenas quando os primeiros 3cm estiverem secos,e reduzir a rega no inverno, aprecia solo bem drenado e rico em matéria orgânica, gosta de temperaturas mais quentes, podendo suportar frio até 15ºC.
 
 Quando adquirida bebé como o caso da minha, vem junto ao caule grandes vagens verdes, que quando secarem terão cumprido o seu propósito. Toda a primavera surge lhe belas flores vermelhas e amarelas semelhante as ervilhas.
 
