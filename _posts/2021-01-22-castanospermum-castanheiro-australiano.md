@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Castanospermum(Castanheiro Australiano)
-background: /assets/img/posts/castano.jpeg
+background: /assets/img/posts/castanospermum-australe.jpg
 date: 2021-01-22T14:12:00.162Z
 ---
 Recentemente adicionado a minha coleção de mini floresta, foi uma surpresa, fiquei encantada com seu tamanho e suas grandes folhas verdes e brilhantes. O meu não passa de um bebé, comparado ao que se encontra na natureza podendo atingir até 40 metros. Mas vou manter o meu num vaso pequenino e ir podando anualmente para ficar como um bonsai, na natureza costuma florescer mas em casa dificilmente o vai fazer.
