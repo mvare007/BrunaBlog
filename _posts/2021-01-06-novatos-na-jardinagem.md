@@ -6,8 +6,6 @@ date: 2021-01-06T16:51:52.904Z
 ---
 ### **Todos queremos ter um jardim bonito e invejável. Mas depois a realidade bate-nos à porta e a falta de tempo e de dinheiro destroem esse sonho. E pensamos que nem temos jeito para tal.**
 
-
-
 Para ter um jardim bonito não precisa de grandes truques, é claro que requer algum tempo e dedicação. Saiba que mesmo novato no assunto pode alcançar seu éden.
 
 **Considere primeiramente o que quer fazer no seu jardim, uma horta? Recreio para crianças? Zona de relaxar?**
@@ -24,6 +22,6 @@ Escolha  espécies cujos períodos de floração não coincidam para assim alarg
 
 Verifique a qualidade do solo antes de iniciar, prepare a terra e adube. E por ultimo adquira algumas ferramentas essenciais para jardinagem, tais como: um ancinho, tesouras de poda, tesouras de jardim, pá para cavar, mangueira para poda 
 
- Uma boa dica para diversificar seu jardim se gastar muito é partilhar e trocar plantas e bolbos com os seus amigos e vizinhos, trocar sugestões e estratégias para um jardim magnifico.
+Uma boa dica para diversificar seu jardim se gastar muito é partilhar e trocar plantas e bolbos com os seus amigos e vizinhos, trocar sugestões e estratégias para um jardim magnifico.
 
 Boas plantações a todos!
