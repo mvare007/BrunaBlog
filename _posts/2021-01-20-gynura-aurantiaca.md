@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Gynura aurantiaca
+title: Gynura Aurantiaca
 background: /assets/img/posts/gynura.jpg
 date: 2021-01-19T23:53:22.310Z
 ---

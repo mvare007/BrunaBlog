@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Corações emaranhados(Ceropegia woodii)
+title: Corações Emaranhados (Ceropegia woodii)
 background: /assets/img/posts/ceropegia.jpg
 date: 2021-01-20T17:09:58.575Z
 ---

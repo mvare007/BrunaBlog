@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Calceolária(Calceolaria herbeohybrida)
+title: Calceolária (Calceolaria herbeohybrida)
 background: /assets/img/posts/img_20210119_163542.jpg
 date: 2021-01-19T16:31:27.132Z
 ---

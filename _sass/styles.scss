@@ -1,7 +1,65 @@
 // Import Core Clean Blog SCSS
 @import "../assets/vendor/startbootstrap-clean-blog/scss/clean-blog.scss";
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&family=Yusei+Magic&display=swap');
 
 body {
+  background-image: linear-gradient( 109.5deg,  rgba(229,233,177,1) 11.2%, rgba(223,205,187,1) 100.2% );
+  font-family: 'Yusei Magic', sans-serif;
+}
+
+h1 {
+  font-family: 'Indie Flower', cursive;
+  text-align: center;
+}
+
+h2 {
+  font-family: 'Indie Flower', cursive;
+  text-align: center;
+}
+
+#post-photo {
+  width: 15rem;
+  height: 15rem;
+  border-radius: 50%;
+  object-fit: cover;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  &:hover {
+    opacity: 0.8;
+    cursor: pointer;
+  }
+}
+
+p {
   text-align: justify;
   text-justify: inter-word;
+  &::first-letter {
+  font-size: 200%;
+  color: #7EAD18;
+}
+}
+
+img {
+  width: 35vw;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.btn-success {
+  background-color: #7ead18;
+  border: 1px  #364d06
+}
+
+.title {
+  color: #E2DCB5;
+}
+
+.fa-pagelines {
+  color: #a4e21e;
+  font-size: 3rem;
+  &:hover {
+    color: #cbff59;
+  }
 }
