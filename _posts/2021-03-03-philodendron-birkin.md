@@ -24,8 +24,6 @@ A rega com agua no prato também é uma boa maneira de garantir que o solo seja 
 
 Após a rega, certifique-se de que todo o excesso de água escorra pelos orifícios de drenagem. Eu normalmente deixo minhas plantas escorrerem no lava loiças, antes de colocá-las de volta em seus lugares normais. Como alternativa, não se esqueça de esvaziar a bandeja coletora ou o pote externo após alguns minutos, para que as raízes não fiquem na água.
 
-### Que tipo de água é melhor para Philodendron Birkin?
-
 Felizmente, Philodendron Birkin não é muito sensível ao tipo de água que você usa. A água da torneira normalmente é adequada, embora possa conter minerais e flúor que podem afetar a saúde de algumas outras plantas domésticas. Mude para água da chuva ou água destilada como último recurso se você estiver tendo problemas para manter a folhagem com boa aparência.
 
 ## Requisitos do solo de Philodendron Birkin
@@ -163,7 +161,3 @@ Philodendron Birkin é levemente tóxico se ingerido e pode resultar em náuseas
 Espero ter respondido todas as suas perguntas sobre os cuidados com Philodendron Birkin e você pode se concentrar no cultivo desta bela planta de casa. Se você estiver enfrentando problemas, pense apenas em cada aspecto do cuidado e faça alguns ajustes para garantir que está dando a esta planta exatamente o que ela precisa.
 
 UfaaHh!
-
-
-
-Espero ter respondido todas as suas perguntas sobre os cuidados com Philodendron Birkin e você pode se concentrar no cultivo desta bela planta de casa. Se você estiver enfrentando problemas, pense apenas em cada aspecto do cuidado e faça alguns ajustes para garantir que está dando a esta planta exatamente o que ela precisa.
