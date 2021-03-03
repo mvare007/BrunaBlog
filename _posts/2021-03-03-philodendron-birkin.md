@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Philodendron Birkin
+title: Philodendron Birkin (tudo o que precisa saber)
 background: /assets/img/posts/capa-philodendron_birkin_philodendron_sp__1.jpg
 date: 2021-03-03T00:22:28.598Z
 ---
