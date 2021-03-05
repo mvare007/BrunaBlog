@@ -14,11 +14,17 @@ Listei abaixo as 15 plantas caseiras fáceis de propagar (tenho certeza que algu
 
 ## Pothos (Epipremnum aureum)
 
+
+
+![](/assets/img/posts/devilsivypothos-plant.jpg)
+
 Pothos é uma das plantas domésticas mais populares em todo o mundo. É também um dos menos exigentes, uma vez que prospera lindamente mesmo em condições de pouca luz com um mínimo de rega.Esta robustez, juntamente com a folhagem atraente da planta que tende a cair dramaticamente nas laterais do vaso, torna-a uma favorita absoluta entre os novos pais das plantas.
 
 Agora, a propagação de uma planta Pothos requer apenas que você identifique um caule saudável com pelo menos 4 a 5 folhas. Você pode cortar a haste logo abaixo do nó da raiz e, em seguida, colocá-la em uma jarra com água. Em cerca de 3-4 semanas, o caule deve desenvolver raízes próprias.Quando isso acontecer, o Pothos propagado estará pronto para ser transferido para um recipiente com solo bem drenado e orifícios de drenagem adequados. Super simples!
 
 ## Planta aranha (Chlorophytum comosum)
+
+![](/assets/img/posts/images.jfif)
 
 A planta aranha parece absolutamente linda em um vaso suspenso, com sua folhagem verde longa e fina com listras brancas pendurada no recipiente.Também conhecida como 'planta de avião' ou 'planta de fita', essa beleza é uma planta de casa super popular devido à sua natureza descontraída e sua capacidade de se adaptar facilmente ao ambiente.
 
@@ -30,6 +36,8 @@ Existem dois métodos principais para propagar uma planta-aranha - você pode co
 
 ## Planta cobra (Dracaena trifasciata)
 
+![](/assets/img/posts/dracaena-trifasciata.jpg)
+
 A maioria dos pais de plantas tem um lugar especial em seus corações para as Plantas Cobra. Isso porque provavelmente são as únicas plantas de casa que podem tolerar dias de abandono e ainda assim não reclamar.Esta planta é conhecida por alguns nomes interessantes como Língua da Sogra, Língua da Cobra ou Língua do Diabo, graças às suas impressionantes folhas em forma de espada.
 
 Seja qual for o nome que você escolher, não há como negar o fato de que uma planta cobra é a menos exigente de todas as plantas domésticas e, felizmente, é muito fácil de se propagar também.
@@ -40,6 +48,8 @@ No entanto, a maneira mais fácil de propagar plantas de cobra é por divisão.�
 
 ## Planta Jade (Crassula ovata)
 
+![](/assets/img/posts/1-suculenta-jade.png)
+
 Eu conheço pessoas que tiveram Plantas de Jade por anos e elas as propagaram indefinidamente e compartilharam as plantas bebês com seus entes queridos. E essas pessoas nem são grandes entusiastas da jardinagem!
 
 Então estão a perceber, certo? As plantas de jade são muito fáceis de propagar, mesmo se você for um novato no mundo da jardinagem interna.
@@ -49,6 +59,8 @@ Uma planta de jade é uma suculenta atraente com pequenas folhas carnudas ovais.
 Em ambos os casos, você precisa pegar o corte (caule ou folha), mergulhá-lo em um hormônio de enraizamento para maiores chances de sucesso e, em seguida, plantá-lo em um recipiente pequeno e bem drenado com solo úmido (mas não encharcado). Com bastante umidade e luz indireta brilhante, você pode esperar que as raízes se formem em cerca de um mês
 
 ## Heartleaf Philodendron (Philodendron hederaceum)
+
+![](/assets/img/posts/61r00vbf3dl._sl1242_.jpg)
 
 O que há para não amar na elegante Sweetheart Plant ou no Heartleaf Philodendron, se escolher chamá-lo assim! Com sua linda folhagem em forma de coração, esta planta é obrigatória se adorar todas as coisas românticas e charmosas.
 
@@ -62,6 +74,8 @@ Ao enraizar na água, certifique-se de que a extremidade sem folhas do caule fic
 
 ## Hera inglesa (Hedera helix)
 
+![](/assets/img/posts/pm103429optimized.jpg)
+
 As vinhas perenes da Ivy inglesa cobrem edificios em muitas partes do mundo. Esta planta clássica atua como uma cobertura de solo atraente para jardins e se sai maravilhosamente bem como uma planta de casa decorativa quando plantada em recipientes onde todas as suas trepadeiras podem pendurar livremente.
 
 Para propagar a hera inglesa, você pode pegar um grande caule com várias folhas e cortá-lo em pedaços menores - mas certifique-se de cortar diretamente acima da folha. Agora mergulhe a extremidade das estacas em um hormônio de enraizamento e, em seguida, enraíze-as em um meio de enraizamento (mistura de areia e solo). 
@@ -70,7 +84,9 @@ Regue o meio de enraizamento e coloque o pote em uma área bem iluminada dentro 
 
 Alternativamente, você pode propagar mudas de hera inglesas na água.
 
-## Planta nervosa (Fittonia albivenis)
+## Planta Mosaico (Fittonia albivenis)
+
+![](/assets/img/posts/btgh-nerve-plant2-1670x940.jpg)
 
 A planta nervosa, com sua folhagem verde exuberante exibindo delicados veios de branco, rosa ou vermelho, é uma planta de casa muito procurada devido à sua aparência marcante.
 
@@ -81,6 +97,8 @@ Você pode propagar uma planta nervosa por meio de estacas de caule ou folhas. 
 Lembre-se de que as Plantas Nervosas AMAM a umidade, então assim que você plantar o caule / folha em solo úmido para vasos, certifique-se de colocar o pequeno recipiente dentro de um saco plástico para manter os níveis de umidade altos e coloque-o em um local claro e quente. Você pode esperar o desenvolvimento das raízes em 2 a 4 semanas.
 
 ## Planta-do-dinheiro-chinesa (Pilea peperomioides)
+
+![](/assets/img/posts/pilea-9.jpg)
 
 Sabe por que a planta monetária chinesa também é conhecida como 'planta da amizade' ou 'planta pass-it-on'? É porque essa beleza é tão simples de propagar que as pessoas têm transmitido 'filhotes' de pilea recentemente propagados (sim, as plântulas de pilea são na verdade chamadas de 'filhotes'!) Para seus amigos por décadas.
 
@@ -94,6 +112,8 @@ Outra forma de propagar a planta monetária chinesa envolve a remoção de um ca
 
 ## Fábrica de Queijo Suíço (Monstera deliciosa)
 
+![](/assets/img/posts/monsteradeliciosa_2400x.jpg)
+
 A Fábrica de Queijo Suíço ou *Monstera deliciosa* tem um aspecto distinto com as suas folhas verdes largas, muitas vezes com buracos. Como esta planta cresce no solo da selva tropical (seu habitat nativo), ela tende a desenvolver buracos nas folhas para que o sol e a chuva possam chegar facilmente às suas raízes.
 
 A Fábrica de Queijo Suíço é a opção ideal para iniciantes em jardinagem interna, pois não exige muita atenção e cuidado. Na verdade, a 'Monstera' pode crescer e se tornar 'monstruosa' em condições ideais em apenas alguns meses. É quando você deve pensar em propagá-lo a partir de estacas de caule.
@@ -104,15 +124,17 @@ Coloque o recipiente em um local quente e bem iluminado e troque a água regular
 
 ## Planta ponta de flecha (Syngonium podophyllum)
 
+![](/assets/img/posts/1200px-zingiber_malaysianum.jpg)
+
 A planta de ponta de flecha recebe o nome de suas folhas em forma de ponta de flecha, que a tornam uma fantástica adição verde a qualquer espaço. Estas plantas são basicamente vinhas e têm vários caules grossos, mas macios, com folhagem densa. Portanto, você pode precisar podar esta beleza periodicamente para evitar que as folhas se agitem demais.
 
 Agora, a melhor parte é que pode realmente propagar uma planta de ponta de flecha enquanto a poda usando as estacas do caule para criar pequenas réplicas de sua querida planta de casa. A melhor época para propagar uma planta de Syngonium é no final da primavera e no verão.
 
 Tudo o que precisa fazer é colher estacas de caule com pelo menos 2 a 3 nós que podem ser enraizadas na água ou no solo. É melhor remover todas as folhas extras na parte inferior das estacas. Em questão de 2 a 3 semanas, você poderá notar o desenvolvimento das raízes. 
 
- 
-
 ## Calatheas
+
+![](/assets/img/posts/calathea-assorted.jpg)
 
 Calatheas estão entre as plantas de casa tropicais mais atraentes que devem sua aparência deslumbrante à sua folhagem colorida e estampada. Aparentemente, esta planta sabe como é atraente para os entusiastas de plantas, e é por isso que ela não se importa em mostrar alguma ousadia quando se trata de cuidar dela. Não é muito fácil de impressionar, esse aqui!
 
@@ -122,14 +144,9 @@ Para propagar uma Calathea, deve primeiro remover cuidadosamente a planta inteir
 
 Agora coloque-o em um novo recipiente com orifícios de drenagem adequados e solo bem drenado. Mantenha a nova planta em um local com sombra parcial e alta umidade, e ela certamente prosperará.
 
-Planta guarda-chuva (Schefflera arboricola)
+## Planta guarda-chuva(Schefflera arboricola)
 
-<!--\[if gte vml 1]><v:shape id="Imagem_x0020_4" o:spid="_x0000_i1028"
- type="#_x0000_t75" alt="planta guarda-chuva" style='width:425.4pt;height:294.6pt;
- visibility:visible;mso-wrap-style:square'>
- <v:imagedata src="file:///C:/Users/bruna/AppData/Local/Temp/msohtmlclip1/01/clip_image023.jpg"
-  o:title="planta guarda-chuva"/>
-</v:shape><!\[endif]--><!--\[if !vml]-->![planta guarda-chuva](file:///C:/Users/bruna/AppData/Local/Temp/msohtmlclip1/01/clip_image024.jpg)<!--\[endif]-->
+![](/assets/img/posts/gallery_secondary_detail-schefflera-arboricola-varigated-4.jpg)
 
 Ainda outra planta de casa charmosa, *Schefflera arboricola* é muito fácil de propagar. Devido às suas folhas ovais e variegadas que crescem em forma de guarda-chuva, é conhecida como a planta guarda-chuva.
 
@@ -139,7 +156,9 @@ Observe que também pode propagar plantas guarda-chuva a partir de estacas de fo
 
 Mantenha o recipiente em um saco plástico para reter a umidade e coloque-o em um local bem iluminado. Com umidade e iluminação adequadas, o enraizamento começará em questão de 2-3 meses.
 
-## Mãe de Milhares (Bryophyllum daigremontianum)
+## Mãe  de Milhares (Bryophyllum daigremontianum)
+
+![](/assets/img/posts/b0cdf1d4f35c5f02f8d391274e70ca6a.jpg)
 
 Agora, este tem um nome muito interessante - e muito adequado também, pois é capaz de cultivar dezenas de mudas ao longo da borda de cada uma de suas folhas, que muitas vezes caem e crescem como plantas separadas!
 
@@ -151,13 +170,17 @@ Nativa de Madagascar, esta planta se desenvolve em ambientes claros e não reque
 
 ## Planta ZZ (Zamioculcas Zamiifolia)
 
+![](/assets/img/posts/zz-plant-a-.jfif)
+
 Negligencie sua planta ZZ tanto quanto você quiser, e ela ainda vai te amar e prosperar. Não é de se admirar, então, que esta planta seja considerada a escolha ideal para os novos entusiastas da jardinagem que já mataram mais do que o seu quinhão de plantas domésticas em seu novo amor pela jardinagem.
 
 Embora a planta ZZ seja considerada uma daquelas plantas de interior de crescimento lento, mais do que compensa por ser tão fácil de usar e de baixa manutenção. E é incrivelmente fácil de propagar também - pode até propagar de folhas caídas!
 
 Outros métodos de propagação desta 'planta sobrevivente' são por divisão (especialmente quando a planta fica presa ao vaso), ou a partir de estacas de caule ou folhas.
 
-## Colar de pérolas (Senecia Rowleyanus)
+## Colar de pérolas (Senecio Rowleyanus)
+
+![](/assets/img/posts/colar-de-perolas.jpg)
 
 Esta é uma suculenta muito louca com folhagem esférica que se assemelha a pequenas pérolas ou mármores. Geralmente é cultivado em vasos suspensos, dos quais suas hastes pendem elegantemente - exatamente como os fios de pérolas.
 
@@ -167,8 +190,6 @@ String of Pearls são plantas caseiras realmente fáceis de propagar - só preci
 
 Como alternativa, pode colocar o corte na água, garantindo que a parte inferior esteja submersa e o resto do corte permaneça pendurado na lateral da jarra, testemunhará pequenas raízes brancas em cerca de uma semana.
 
-## Última palavra
 
-Propagar suas plantas de casa geralmente é mais fácil do que a maioria das pessoas pensa e é uma ótima maneira de multiplicar rapidamente sua coleção de plantas de casa. Também pode ser muito divertido. 
 
-<!--EndFragment-->
+Propagar suas plantas de casa geralmente é mais fácil do que a maioria das pessoas pensa e é uma ótima maneira de multiplicar rapidamente sua coleção de plantas de casa. Também pode ser muito divertido.
