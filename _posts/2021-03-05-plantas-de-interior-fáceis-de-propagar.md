@@ -24,7 +24,7 @@ Agora, a propagação de uma planta Pothos requer apenas que você identifique u
 
 ## Planta aranha (Chlorophytum comosum)
 
-![](/assets/img/posts/images.jfif)
+![](/assets/img/posts/unnamed.jpg)
 
 A planta aranha parece absolutamente linda em um vaso suspenso, com sua folhagem verde longa e fina com listras brancas pendurada no recipiente.Também conhecida como 'planta de avião' ou 'planta de fita', essa beleza é uma planta de casa super popular devido à sua natureza descontraída e sua capacidade de se adaptar facilmente ao ambiente.
 
@@ -88,13 +88,13 @@ Alternativamente, você pode propagar mudas de hera inglesas na água.
 
 ![](/assets/img/posts/btgh-nerve-plant2-1670x940.jpg)
 
-A planta nervosa, com sua folhagem verde exuberante exibindo delicados veios de branco, rosa ou vermelho, é uma planta de casa muito procurada devido à sua aparência marcante.
+A planta mosaico, com sua folhagem verde exuberante exibindo delicados veios de branco, rosa ou vermelho, é uma planta de casa muito procurada devido à sua aparência marcante.
 
 Embora não seja a planta mais fácil devido à sua natureza voltada para a atenção (esqueça de regá-la na hora certa e ela provavelmente irá mostrar seu desagrado ao murchar), propagá-la não é nada difícil!
 
 Você pode propagar uma planta nervosa por meio de estacas de caule ou folhas. É aconselhável propagá-lo na primavera ou início do verão para melhores chances de sucesso.
 
-Lembre-se de que as Plantas Nervosas AMAM a umidade, então assim que você plantar o caule / folha em solo úmido para vasos, certifique-se de colocar o pequeno recipiente dentro de um saco plástico para manter os níveis de umidade altos e coloque-o em um local claro e quente. Você pode esperar o desenvolvimento das raízes em 2 a 4 semanas.
+Lembre-se de que as Plantas Mosaicos AMAM a umidade, então assim que você plantar o caule / folha em solo úmido para vasos, certifique-se de colocar o pequeno recipiente dentro de um saco plástico para manter os níveis de umidade altos e coloque-o em um local claro e quente. Você pode esperar o desenvolvimento das raízes em 2 a 4 semanas.
 
 ## Planta-do-dinheiro-chinesa (Pilea peperomioides)
 
