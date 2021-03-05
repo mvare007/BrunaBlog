@@ -46,8 +46,6 @@ Como muitas plantas, a begônia de bolinhas gosta de solo bem drenado, que reté
 
 ![](/assets/img/posts/3474bbf7fd55040f3298e79f07836863.jpg)
 
-
-
 ## Temperatura
 
 Este é fácil se você os mantiver dentro de casa, porque eles gostam das mesmas temperaturas que nós. Mantenha-os longe de correntes de ar e evite temperaturas abaixo dos 15 ° C ou menos.Elas se saem melhor entre 18 °C e 30 ° C), mas toleram temperaturas mais quentes durante o dia. 
@@ -62,7 +60,7 @@ Nenhuma mistura especial é necessária, apenas um fertilizante balanceado com n
 
 Maculatas florescem da primavera ao outono, produzindo cachos de flores brancas com centros amarelos alegres em um único caule. Normalmente, não precisa ajudá-las a florescer: a fertilização normal e uma boa luz devem resolver.Se estiver vendo menos flores do que gostaria, tente aumentar a luz. Experimente dar-lhes um sol suave direto da manhã ou do fim da tarde. 
 
-## Poda 
+## Poda
 
 Uma Maculata bem preenchida é uma planta espetacular, mas o aspecto espesso requer alguma intervenção. Os caules ficam esparsos e perpendiculares, porque a planta tende a colocar mais energia no crescimento do que no exterior. A poda corrige essa tendência.
 
@@ -145,7 +143,7 @@ O problema mais comum em “salvar” uma Maculata é otimizar seu solo, que ger
 * Replante segurando cada haste da Maculata enquanto a preenche com solo fresco.
 * Regue bem para assentar o solo.
 
-  ![](/assets/img/posts/download.jfif)
+  ![](/assets/img/posts/begonia-maculata-in-window-ledge.jpg)
 
 ### Socorro, minha Begonia Maculata está a cair!
 
