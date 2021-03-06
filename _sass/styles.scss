@@ -10,6 +10,7 @@ body {
 h1 {
   font-family: 'Indie Flower', cursive;
   text-align: center;
+  -webkit-text-stroke: 2px black;
 }
 
 h2 {
@@ -37,7 +38,7 @@ p {
   &::first-letter {
   font-size: 200%;
   color: #7EAD18;
-}
+  }
 }
 
 img {
@@ -53,7 +54,11 @@ img {
 }
 
 .title {
-  color: #E2DCB5;
+  color: #E1D6B7;
+  &::first-letter {
+  font-size: 150%;
+  color: #7EAD18;
+  }
 }
 
 .fa-pagelines {
